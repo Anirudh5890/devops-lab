@@ -1,2 +1,3 @@
 oops
 written in vs code
+learning git
